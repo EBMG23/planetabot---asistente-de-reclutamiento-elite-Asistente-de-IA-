@@ -1,0 +1,6 @@
+{
+  "name": "PlanetaBot — Asistente de Reclutamiento Elite",
+  "description": "Asistente estratégico de reclutamiento para Agencia Planeta. Convierte objeciones de creadores en mensajes de texto y guiones de audio listos para cerrar registros.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
